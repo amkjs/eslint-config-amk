@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-amk",
+  "version": "0.1.0",
+  "description": "eslint rules recommended by amkjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amkjs/eslint-config-amk.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "amkjs"
+  ],
+  "author": "heinrich10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amkjs/eslint-config-amk/issues"
+  },
+  "homepage": "https://github.com/amkjs/eslint-config-amk#readme",
+  "peerDependencies": {
+	  "eslint": ">= 3"
+  }
+}
